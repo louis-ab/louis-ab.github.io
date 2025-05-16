@@ -1,5 +1,6 @@
-*{
-    text-align: center
+body{
+    text-align: center;
+    background-color: #ddeeff;
 }
 
 h1{
@@ -40,6 +41,7 @@ table{
     width: 1000px;
     height: 550px;
     border: 1px solid #cccccc;
+    background-color: white;
 }
 
 tr {
